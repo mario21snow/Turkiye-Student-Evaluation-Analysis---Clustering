@@ -1,6 +1,6 @@
 # Turkiye Student Evaluation Analysis - Clustering
 
-**Complete Video Tutorial:** https://youtu.be/aLEy3GFGWjQ
+
 
 # Dataset Information
 
